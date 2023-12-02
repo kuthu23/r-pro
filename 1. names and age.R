@@ -1,0 +1,4 @@
+name<-c("nithu","sandy")
+age<-c(18,18)
+print(name)
+print(age)
